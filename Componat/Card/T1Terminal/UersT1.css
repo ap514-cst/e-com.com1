@@ -1,0 +1,27 @@
+
+.Product-Continer{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.title-card{
+    text-align: center;
+}
+.btn{
+    padding: 10px 0px;
+    
+}
+.btn button{
+    width: 100px;
+    height: 40px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: 400px;
+}
+.btn button:active{
+    background-color: antiquewhite;
+}
+ 

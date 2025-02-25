@@ -1,0 +1,14 @@
+.Products-cardT2 {
+    text-align: center;
+    border: 1px solid;
+    width: 350px;
+    height: auto;
+}
+.t2-btn{
+    padding: 4px 0px;
+}
+.t2-btn button{
+    font-size: 14px;
+    padding: 4px;
+    border-radius:10px;
+}

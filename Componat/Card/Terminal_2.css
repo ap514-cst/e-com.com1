@@ -1,0 +1,68 @@
+.T2-Diccount{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 0px 140px;
+    margin-bottom: 150px;
+    gap: 25px;
+    width:65% ;
+    height: 50vh;
+    background: linear-gradient(120deg, #160117 0%,#11337422 60% );
+}
+.discount-card{
+    position: relative;
+    right: 250px;
+    
+}
+.discount-card h1{
+    color: red;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.discount-card button{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.discount-card h2{
+    color: black;
+}
+
+
+.our-div{
+    text-align: center;
+    padding: 10px 0px;
+}
+.our-div h2{
+    padding: 10px 0px;
+}
+.our-div hr{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    border: 1px solid;
+}
+.T2-Products{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+}
+.main-T2-card{
+    margin: 0px 140px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-weight: 7000;
+    width: 80%;
+    padding: 20px 0px;
+    
+}
+/**.main-T2-card{
+    display: flex;
+    margin: auto;
+    width: 80%;
+    padding: 20px 0px;
+    justify-content: center;
+    
+}

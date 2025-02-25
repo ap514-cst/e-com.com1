@@ -1,0 +1,94 @@
+.main-card{
+ 
+  position: sticky;
+  top: 0;
+  padding: 0px;
+  
+  
+}
+
+.continar-card{
+    display:flex ;
+    box-shadow: 1px 1px 0px rgb(23, 22, 22);
+    justify-content: space-around;
+    background-color: rgb(95, 82, 82);
+    padding: 16px;
+    height: 8vh;
+
+    
+  }
+  .logo-card{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: rgb(105, 152, 152);
+  }
+  .navbar-card{
+    display: flex;
+    justify-content: space-around;
+    gap: 25px;
+    font-size: 33px;
+    
+  }
+  .navbar-card a{
+    text-decoration: none;
+    color: rgb(165, 161, 177);
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 0px;
+  }
+
+  .navbar-card hr{
+    border: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+    background: #ff4141;
+
+  }
+  
+
+
+  .login-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .login-card button{
+    width: 157px;
+    height: 58px;
+    outline: none;
+    border: 1px solid #7a7a7a;
+    border-radius: 75px;
+    color: #515151;
+    font-size: 20px;
+    font-weight: 500;
+    background: white;
+    cursor: pointer;
+
+  }
+  .login-card button:hover{
+    background-color: rgb(154, 116, 116);
+    transition: 0.7s;
+  }
+  .login-card span{
+    font-size: 30px;
+  }
+
+  .card-count{
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -40px;
+    margin-left: -45px;
+    border-radius: 11px;
+    font-size: 10px;
+    background: red;
+    color: white;
+  }
+  
+
+

@@ -1,0 +1,13 @@
+.card-count{
+    width: 15px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+    margin-left: 25px;
+    border-radius: 11px;
+    font-size: 10px;
+    background: red;
+    color: white;
+  }

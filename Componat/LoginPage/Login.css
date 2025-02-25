@@ -1,0 +1,10 @@
+.main-login{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    border: 1px solid yellow;
+}
+.login-div{
+    border: 1px solid ;
+    padding: 40px 30px;
+}
